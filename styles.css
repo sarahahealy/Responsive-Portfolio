@@ -160,5 +160,7 @@
 
   
   @media (max-width: 600px) {
-    .column.side, .column.middle {
-      width: 100%;
+    .column.side, .column.middle 
+     { width: 100%;}
+
+    
